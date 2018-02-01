@@ -2,6 +2,3 @@
 
 - textbook
 1. data strcture using c++
-
-
-clion git practice

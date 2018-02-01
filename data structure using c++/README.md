@@ -4,4 +4,4 @@ data structure using c++
 chapter
 -------
 - chapter10 : heap
-    - maxheap
+    1. maxheap
